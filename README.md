@@ -28,4 +28,5 @@ This project demonstrates the use of Microsoft Excel to create an interactive an
 ## Dashboard
 <img width="935" height="474" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/ce095913-d62e-45d7-84eb-c9b21d476ff4" />
 
-
+## Conclusion
+This project highlights the power of Excel beyond simple spreadsheets, showcasing how it can be transformed into a dynamic tool for analytics and automation. By combining data cleaning, visualization, and VBA macros, the dashboard provides meaningful insights into a professional and interactive format. It demonstrates skills that are directly applicable to real-world business reporting and decision-making.
